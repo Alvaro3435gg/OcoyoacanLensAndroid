@@ -1,3 +1,35 @@
 <resources>
-    <string name="app_name">inicioOcoyucan</string>
+    <string name="app_name">OcoyucanLens</string>
+    <string name="plant1">Hortensia</string>
+    <string name="plant2">Rosa</string>
+    <string name="plant3">Gardenia</string>
+    <string name="plant4">Clavel</string>
+    <string name="plant5">Tomate</string>
+    <string name="plant6">Tulipan</string>
+    <string name="plant7">Violeta</string>
+    <string name="plant8">Orquídea</string>
+    <string name="plant9">Girasol</string>
+    <string name="plant10">Nardo</string>
+    <string name="sc1">Hydrangea</string>
+    <string name="sc2">Rosa</string>
+    <string name="sc3">Gardenias</string>
+    <string name="sc4">Clavel científico</string>
+    <string name="sc5">Tomate es una fruta</string>
+    <string name="sc6">Tulipán chambeador</string>
+    <string name="sc7">Púrpura</string>
+    <string name="sc8">Mi calle</string>
+    <string name="sc9">Ns q es esta planta</string>
+    <string name="sc10">Orchidanceas</string>
+    <string name="description1">Se trata de un arbusto caducifolio que crecen hasta una altura de entre 1 y 3 m-. Las hojas son opuestas, ovales, dentadas y acuminadas, de entre 7 y 20 cm de longitud, con bordes rudamente dentados. Las inflorescencias se agrupan en corimbos terminales, grandes cabezas globulares, de color blanco, azul, rojo o rosa.
+El color de las flores depende de la cantidad de sulfato de aluminio que contenga el suelo, si este es neutro a alcalino contiene menos aluminio, por lo que se producen flores rosas, con suelos ácidos con un pH de 5,5 o menor, la mayor cantidad de mineral al alcance de las raíces da flores azules. Las blancas no se ven afectadas por los valores de pH.</string>
+    <string name="description2">El género Rosa está compuesto por un conocido grupo de arbustos generalmente espinosos y floridos representantes principales de la familia de las rosáceas. Se denomina rosa a la flor de los miembros de este género y rosal a la planta.</string>
+    <string name="description3">Son arbustos de hojas perennes de color verde claro, brillantes y lisas. Sus flores son blancas, similares a las rosas y se usan comúnmente como plantas ornamentales. Una flor, colocada en un vaso con agua, puede perfumar con un intenso y agradable aroma una habitación durante un par de días.</string>
+    <string name="description4">El clavel o clavelina (Dianthus caryophyllus) es una planta herbácea perteneciente a la familia de las Caryophyllaceae, es considerada como flor del agua, difundida en las regiones mediterráneas2 Es espontánea en la flora de la península ibérica. En su forma típica es una planta cespitosa,2 con numerosos vástagos de hasta 1 m de altura</string>
+    <string name="description5">El tomate o jitomate1 es el fruto de la planta Solanum lycopersicum, el cual tiene importancia culinaria, y es una verdura. Siendo el tomate clasificado botánicamente como una fruta, más precisamente como una baya,2 es comúnmente usado en arte culinario como un ingrediente vegetal o también como guarnición</string>
+    <string name="description6">Tulipa es un género de plantas perennes y bulbosas perteneciente a la familia Liliaceae, en el que se incluyen los populares tulipanes, nombre común con el que se designa a todas las especies, híbridos y cultivares de este género. Tulipa contiene aproximadamente 150 especies e innumerables cantidades de híbridos y cultivares conseguidos a través de mejoramiento genético que los floricultores fueron realizando desde el siglo XVI</string>
+    <string name="description7">Las violetas (género Viola) son plantas herbáceas, de la familia de las violáceas, con entre 525 y 600 especies.1 La mayoría de las especies se encuentran en las regiones templadas del hemisferio norte; sin embargo algunas especies están en Hawái, Australasia y los Andes de Sudamérica.</string>
+    <string name="description8">Las orquídeas u orquidáceas (nombre científico Orchidaceae) son una familia de plantas monocotiledóneas que se distinguen por la complejidad de sus flores y por sus interacciones ecológicas con los agentes polinizadores y con los hongos con los que forman micorrizas</string>
+    <string name="description9">Helianthus annuus, también llamado comúnmente girasol, mirasol, maravilla, maíz de teja, acahual3 (del náhuatl atl, agua, y cahualli, dejado, abandonado) es una planta herbácea anual de la familia de las asteráceas originaria de Centro y Norteamérica y cultivada como alimenticia, oleaginosa y ornamental en todo el mundo.</string>
+    <string name="description10">Alcanza hasta un metro de altura y tiene flores rosadas y acampanadas. De sus rizomas se extrae un aceite esencial ambarado y muy aromático el cual es usado como perfume, incienso, sedante, y en la herbología. La Lavandula también fue conocida en la antigua Grecia como nardo, en referencia a la ciudad siria Naarda.</string>
+    <string name="reference">https://es.wikipedia.org</string>
 </resources>
